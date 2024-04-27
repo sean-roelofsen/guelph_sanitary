@@ -1,2 +1,6 @@
-[build]
-  publish = "output2.mbtiles"
+[[redirects]]
+  from = "/output2.mbtiles"
+  to = "/output2.mbtiles"
+  status = 200
+  force = true
+
