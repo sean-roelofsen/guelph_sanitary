@@ -2,3 +2,9 @@
 
 # This file intentionally left blank
 
+[[redirects]]
+  from = "/output2.mbtiles"
+  to = "/output2.mbtiles"
+  status = 200
+  force = true
+
